@@ -1,0 +1,1 @@
+include ':app', ':Shared', ':SharedServer', ':SharedClasses', ':FinalShared'
